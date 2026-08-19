@@ -2,6 +2,8 @@
 
 Hands-on deployment of the VProfile application workload on Google Cloud Platform using private networking, managed backend services, scalable compute, global HTTPS load balancing, TLS, and DNS.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7608af26-7d5e-4191-9e68-fe3a07340a8b" />
+
 ---
 
 ## Overview
