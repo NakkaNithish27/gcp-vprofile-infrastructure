@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/10933beb-277d-4efa-a827-2c3cda1a613a" />
+
+
 ## 1. Purpose
 
 This document defines the boundaries of the GCP VProfile infrastructure project and identifies logical areas for future improvement.
