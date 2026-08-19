@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/971cf055-d624-4828-abd8-700bb17b5343" />
+
+
 ## 1. Architecture Overview
 
 This project deploys the existing VProfile application workload on Google Cloud Platform using a layered, multi-tier architecture.
