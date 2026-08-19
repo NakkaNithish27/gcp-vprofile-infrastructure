@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfe892d2-6000-4229-8b32-aa5dc3788ae3" />
+
+
 ## 1. Validation Objective
 
 Validation confirms that the GCP VProfile infrastructure works as an integrated system rather than merely confirming that individual GCP resources were created successfully.
