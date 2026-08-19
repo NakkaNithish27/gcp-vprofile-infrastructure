@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e69b1833-7589-4c89-9234-9ac6135e3249" />
+
+
 ## 1. Implementation Overview
 
 This project was implemented using **Google Cloud Shell and the `gcloud` CLI** rather than the GCP web console.
